@@ -3,7 +3,14 @@ This is a long-term project where I will be writing my own rendering engine and 
 I intend to leave this repository public with the MIT license, however as I get further into development I may just leave this repo as the game engine itself and create a private fork for the actual game.
 
 
-# Gameplay
+# Roadmap
+- [ ] Rendering engine
+- [ ] World generation
+- [ ] Basic player and game mechanics
+- [ ] Menus and UIs
+- [ ] Localisation - I will create a branch for locales, everybody is welcome to contribute.
+
+## Gameplay
 - Player spawns on a colonist ship on a beachside or riverside with a small crew of First Generation settlers.
 - Players and NPCs will start with a basic shovel, pickaxe, axe, and handsaw. 
   - Saws cut branches faster than axes, but axes break whole trees, timber and glass voxels, and thick logs faster.
@@ -17,6 +24,7 @@ I intend to leave this repository public with the MIT license, however as I get 
 
 ## The Player
 
-## The World [//]: <> (TOKI WO TOMARE)
+## The World 
+[//]: <> (TOKI WO TOMARE)
 - One block is 24^3 voxels. The player will be exactly 23 voxels tall.
 - Like other voxel games, the world will be broken down into chunks. However, 
